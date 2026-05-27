@@ -30,6 +30,7 @@ public class Ex08_10 {
         // kim1.age = -99;
 
         kim1.setAge(-99);
+        kim1.setAge(100);
 
         System.out.println("당신의 나이는" + kim1.getAge() + "세입니다.");
     }
