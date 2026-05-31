@@ -1,0 +1,7 @@
+package sec11;
+
+public class Ex11_10 {
+    public static void main(String[] args) {
+        
+    }
+}
